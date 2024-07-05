@@ -3,6 +3,7 @@
 ## Overview
 
 Ever wondered how Google suggests movies similar to your favorites? This project implements a content-based movie recommendation system using machine learning, specifically the scikit-learn library.
+## [Full Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
 ## Types of Recommendation Engines
 
@@ -44,11 +45,6 @@ This project implements a **Content-based Recommendation System** using the scik
 - scikit-learn
 - (List other dependencies)
 
-## Usage
-
-```python
-# Add sample code snippet here
-```
 
 ## Contributing
 
